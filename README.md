@@ -1,0 +1,1 @@
+# QuadraticEquation_StasIvan
